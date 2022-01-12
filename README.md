@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello, I am Manisha Patil 👋
 
-Hi 👋, I'm Manisha Patil
+![](https://raw.githubusercontent.com/manisharpatil/manisharpatil/blob/main/github-banner.PNG)
+
