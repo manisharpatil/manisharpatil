@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **manisharpatil/manisharpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +15,4 @@ Here are some ideas to get you started:
 
 # Hello, I am Manisha Patil 👋
 
-![](https://raw.githubusercontent.com/manisharpatil/manisharpatil/blob/main/github-banner.PNG)
-
+![](https://github.com/manisharpatil/manisharpatil/blob/main/github-banner.PNG)
